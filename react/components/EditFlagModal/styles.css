@@ -1,0 +1,25 @@
+.edit-flag-modal__global-container {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.edit-flag-modal__date-container {
+  display: flex;
+  gap: 15px;
+}
+
+.edit-flag-modal__loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 35px;
+  gap: 10px;
+  color: #134cd8;
+}
+
+.edit-flag-modal__loading-container p {
+  margin: 0;
+  font-size: 25px;
+  color: #000;
+}

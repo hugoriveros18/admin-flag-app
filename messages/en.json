@@ -1,4 +1,6 @@
 {
   "admin/test": "test",
-  "store/test": "test"
+  "store/test": "test",
+  "admin-flag-app.navigation.label": "Product Flag App",
+  "admin-flag-app.navigation.search.kws": "flag, product, producto, bandera"
 }

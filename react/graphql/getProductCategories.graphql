@@ -1,0 +1,9 @@
+query ($productId: ID!) {
+  product(
+    identifier: {field: id, value: $productId}
+  ) {
+    categoryTree {
+      id
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "section": "orders",
+  "titleId": "admin-flag-app.navigation.label",
+  "path": "/admin/product-flag-app",
+  "searchKeyWordsHelpers": "admin-flag-app.navigation.search.kws"
+}

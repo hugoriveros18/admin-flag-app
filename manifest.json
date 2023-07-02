@@ -1,17 +1,21 @@
 {
-  "vendor": "fabricasunidas",
-  "name": "metatags",
-  "version": "1.0.0",
-  "title": "MetaTags",
-  "description": "CHANGE_ME",
+  "vendor": "panamericana",
+  "name": "admin-flag-app",
+  "version": "0.0.1",
+  "title": "Admin Product Flag App",
+  "description": "App to manage flags that are displayed at the store products",
   "builders": {
     "react": "3.x",
     "messages": "1.x",
     "docs": "0.x",
+    "admin": "0.x",
     "store": "0.x"
   },
   "dependencies": {
-    "vtex.styleguide": "9.x"
+    "vtex.styleguide": "9.x",
+    "vtex.css-handles": "0.x",
+    "vtex.product-context": "0.x",
+    "vtex.store-graphql": "2.x"
   },
   "registries": [
     "smartcheckout"

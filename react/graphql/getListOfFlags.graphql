@@ -1,0 +1,17 @@
+query getListOfFlags {
+  documents(
+    acronym:"FP",
+    pageSize: 50,
+    fields:[
+      "tipoReferencia",
+      "idReferencia",
+      "urlImagenIcono",
+      "fechaInicio",
+      "fechaFinal"
+    ]) {
+    fields {
+      key
+      value
+    }
+  }
+}

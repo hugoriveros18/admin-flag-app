@@ -1,5 +1,6 @@
 {
-  "meta-tag": {
-    "component": "MetaTags"
+  "product-flag": {
+    "component": "ProductFlag",
+    "render": "lazy"
   }
 }

@@ -1,0 +1,20 @@
+.create-flag-modal__loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 35px;
+  gap: 10px;
+  color: #134cd8;
+}
+
+.create-flag-modal__loading-container p {
+  margin: 0;
+  font-size: 25px;
+  color: #000;
+}
+
+.create-flag-modal__informative-text {
+  margin: 35px 0 0;
+  font-size: 18px;
+  color: #000;
+}

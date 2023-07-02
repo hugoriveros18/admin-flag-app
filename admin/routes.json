@@ -1,0 +1,6 @@
+{
+  "admin.app.product-flag-app" : {
+    "component": "FlagsConfiguration",
+    "path": "/admin/app/product-flag-app"
+  }
+}
